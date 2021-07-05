@@ -59,7 +59,7 @@ This project is developed by a small group of talented young students as a part 
     
 <br>
     
-### These students are: 
+### Contributing Students: 
 ⦿ [Soumilekha Mukherjee](https://github.com/Soumile21)
 ⦿ [Shinan Roychowdhury](https://github.com/shinan-roychowdhury)
 ⦿ [Debarpan Das](https://www.facebook.com/debarpan.das.9)
