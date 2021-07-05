@@ -35,8 +35,20 @@ The goal is to create a web application that updates the covid-19 case data on a
   
  ![Home](https://github.com/SouravD-Me/Covinfo-India/blob/master/Home.png)
 
-  <p align="center"> **Home Page** </p>
+  <p align="center"> Home Page </p>
   
+ ![Vaccination_Information](https://github.com/SouravD-Me/Covinfo-India/blob/master/Vaccination_Info.png) 
   
+  <p align="center"> Vaccination Statistics  </p>
+  
+  ![Vaccination_Venues](https://github.com/SouravD-Me/Covinfo-India/blob/master/Vaccination_Venues.png)
  
-
+  <p align="center"> Vaccination Venues in Kolkata </p>
+  
+  ![Contributors](https://github.com/SouravD-Me/Covinfo-India/blob/master/Contributors.png)
+  
+  <p align="center"> Contributors and Mentor </p>
+  
+  <br><br>
+  
+  ## Group Members
