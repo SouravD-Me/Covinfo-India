@@ -52,3 +52,19 @@ The goal is to create a web application that updates the covid-19 case data on a
   <br><br>
   
   ## Group Members
+  
+  <div align="justify">
+
+This project is developed by a group of talented young students as a part of their B.Tech (Computer Science &amp; Engineering final semester project, under the guidance of [Sourav Das](https://sites.google.com/view/souravd-me/home).
+    
+<br>
+    
+### These students are: 
+⦿ [Soumilekha Mukherjee](https://github.com/Soumile21)
+⦿ [Shinan Roychowdhury](https://github.com/shinan-roychowdhury)
+⦿ [Debarpan Das](https://www.facebook.com/debarpan.das.9)
+⦿ [Ayan Halder](https://github.com/Ayanh9674)
+    
+<br><br>
+    
+<p align="center"> 2021 </p>
