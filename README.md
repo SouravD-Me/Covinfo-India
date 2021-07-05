@@ -4,6 +4,8 @@ Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framew
 **Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framework**
 <br>
 
+## About
+
 <div align="justify">
 Covinfo India is the final year project of four B.Tech Computer Science and Engineering students. <br>
 This project is developed using Python 3.7.7 along with the packages for data analytics and visualization. <br>
