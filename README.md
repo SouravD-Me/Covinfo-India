@@ -55,7 +55,7 @@ The goal is to create a web application that updates the covid-19 case data on a
   
   <div align="justify">
 
-This project is developed by a small group of talented young students as a part of their B.Tech (Computer Science &amp; Engineering), [Maulana Abul Kalam azad University of Technology, EB, India](https://makautwb.ac.in/) final semester **Project-2**, under the guidance of [Sourav Das](https://sites.google.com/view/souravd-me/home).
+This project is developed by a small group of talented young students as a part of their B.Tech (Computer Science &amp; Engineering), [Maulana Abul Kalam Azad University of Technology, EB, India](https://makautwb.ac.in/) final semester **Project-2**, under the guidance of [Sourav Das](https://sites.google.com/view/souravd-me/home).
     
 <br>
     
