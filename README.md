@@ -34,7 +34,8 @@ The goal is to create a web application that updates the covid-19 case data on a
  ## Primary Components
   
  ![Home](https://github.com/SouravD-Me/Covinfo-India/blob/master/Home.png)
- **Home Page**
+
+  <p align="center"> **Home Page** </p>
   
   
  
