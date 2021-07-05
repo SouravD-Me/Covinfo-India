@@ -28,4 +28,10 @@ The goal is to create a web application that updates the covid-19 case data on a
 •	Download and parsing of officially available data (from [_**Who India**_](https://covid19.who.int/region/searo/country/in) and the [_**Indian Council of Medical Research**_](https://www.icmr.gov.in/)) on the corona virus. <br>
 •	Options to choose from official [_**CoWIN**_](https://www.cowin.gov.in/) approved vaccination centers as vaccination venues. <br>
 •	Plot showing new and cumulated case statistics of the _**Selected States, Confirm cases, Cured cases and Deceased cases**_.
+  
+ <br><br>
+  
+ ## Primary Components
+  
+ ![Home](/images/logo.png)
 
