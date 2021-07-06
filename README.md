@@ -1,4 +1,4 @@
-<p align="center"> # Covinfo India </p>
+# <p align="center"> Covinfo India </p>
 
 <div align="justify">
  
