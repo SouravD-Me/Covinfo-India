@@ -5,6 +5,8 @@ Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framew
 
 ## **Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framework**
 <br>
+  
+### **The Project is Live at: [Covinfo India](https://souravd-me.github.io/Covinfo-India/)**
 
 ## About
 
