@@ -1,4 +1,4 @@
-# Covinfo-India
+# Covinfo India
 
 <div align="justify">
  
