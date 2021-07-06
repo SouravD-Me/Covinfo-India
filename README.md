@@ -1,4 +1,4 @@
-# Covinfo India
+<p align="center"> # Covinfo India </p>
 
 <div align="justify">
  
@@ -11,7 +11,7 @@ An Undergraduate (Computer Science &amp; Engineering) Final Semester Project to 
 
 ---------------------------------------------------------------------------------------------
   
-### **The Project is Live at: [Covinfo India](https://souravd-me.github.io/Covinfo-India/)**
+### **Visit the Project at: [Covinfo India](https://souravd-me.github.io/Covinfo-India/)**
   
 ---------------------------------------------------------------------------------------------
 
