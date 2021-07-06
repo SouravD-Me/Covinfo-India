@@ -4,9 +4,14 @@
 Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framework - An Undergraduate (Computer Science &amp; Engineering) Final Semester Project to Track the Covid-19 Second Wave and Vaccination Information in India (and Kolkata).
 
 ## **Web-Based Covid-19 Data Analytics and Visualization using Python and Html Framework**
-<br>
+  
+<div align="justify">
+
+---------------------------------------------------------------------------------------------
   
 ### **The Project is Live at: [Covinfo India](https://souravd-me.github.io/Covinfo-India/)**
+  
+---------------------------------------------------------------------------------------------
 
 ## About
 
