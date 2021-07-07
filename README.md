@@ -18,6 +18,7 @@ An Undergraduate (Computer Science &amp; Engineering) Final Semester Project to 
 ## About
 
 <div align="justify">
+ 
 Covinfo India is the final year project of four B.Tech Computer Science and Engineering students. This project is developed using Python 3.7.7 along with the packages for data analytics and visualization. This project started with analyzing the dataset by collecting credible Covid-19 data from [WHO Covid-19 India Dashboard](https://covid19.who.int/region/searo/country/in/) and [Indian Council of Medical Research](https://www.icmr.gov.in/) for the latest case statistics in India, and [Arogya Setu](https://www.mygov.in/aarogya-Setu-app/) smartphone app for collecting the overall vaccination data in India. Finally, the analytical findings and visualizations were embedded with developing a live website using Plotly, HTML5 and CSS.
   
 <br><br>
