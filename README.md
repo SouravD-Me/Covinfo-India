@@ -27,12 +27,12 @@ Covinfo India is the final year project of four B.Tech Computer Science and Engi
   
 <div align="justify">
 
-It is practically evident that the second wave of chaos that the corona Virus (Covid-19) has thrust India and the World into. This project helps to gain a sense of war has transpired until now, using data analysis techniques. The fundamental building block of the project is _**Python associated with Pandas, Plotly, and on top of that HTML5 and CSS for Front-End Design**_. It can be derived without saying that an incident of such a large statue has already attracted a plethora of research works. Hence, this web-based project will provide the necessary information this information and analyze the details as to make it easier for people to reach out for help.
+It is practically evident that the second wave of chaos that the Coronavirus or Covid-19 has thrust India and the World into. This project helps to gain a sense of war has transpired until now, using data analysis techniques. The fundamental building block of the project is _**Python associated with Pandas, Plotly, and on top of that HTML5 and CSS for Front-End Design**_. It can be derived without saying that an incident of such a large statue has already attracted a plethora of research works. Hence, this web-based project will provide the necessary information this information and analyze the details as to make it easier for people to reach out for help.
 
-The goal is to create a web application that updates the covid-19 case data on app launch & shows the data on a web dash board. <br>
+The goal is to create a web application that shows the various Covid-19 case data on a web dashboard. <br>
 
 ### Features:	
-•	Download and parsing of officially available data (from [_**Who India**_](https://covid19.who.int/region/searo/country/in) and the [_**Indian Council of Medical Research**_](https://www.icmr.gov.in/)) on the corona virus. <br>
+•	Download and parsing of officially available data (from [_**Who India**_](https://covid19.who.int/region/searo/country/in) and the [_**Indian Council of Medical Research**_](https://www.icmr.gov.in/)) on the Covid-19. <br>
 •	Options to choose from official [_**CoWIN**_](https://www.cowin.gov.in/) approved vaccination centers as vaccination venues. <br>
 •	Plot showing new and cumulated case statistics of the _**Selected States, Confirm cases, Cured cases and Deceased cases**_.
   
